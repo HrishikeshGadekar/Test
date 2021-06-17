@@ -7,6 +7,7 @@ if x == 0:
 flag = True
 
 if flag:
-    print('An Integer')
+    print('An Integer',end='')
+    print(', a non-zero number!')
 else:
     print('A Zero')
