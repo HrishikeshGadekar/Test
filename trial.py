@@ -1,6 +1,5 @@
 # A Trial file
 print('GitHub Tutorial')
-print('The trialb Branch')
 
 x = int(input())
 if x == 0:
