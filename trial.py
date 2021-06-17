@@ -9,6 +9,6 @@ flag = True
 if flag:
     print('An Integer',end='')
     print(', a non-zero number!')
-    print('dsadas')
+    print('dsads')
 else:
     print('A Zero')
